@@ -1,0 +1,30 @@
+[
+  {
+    "id": "P-A",
+    "grid_at_entry": "G1",
+    "eligible_from": "2026-02-01",
+    "eligible_to": "",
+    "exit_reason": ""
+  },
+  {
+    "id": "P-B",
+    "grid_at_entry": "G1",
+    "eligible_from": "2026-02-01",
+    "eligible_to": "2026-04-15",
+    "exit_reason": "moved"
+  },
+  {
+    "id": "P-C",
+    "grid_at_entry": "G2",
+    "eligible_from": "2026-03-01",
+    "eligible_to": "",
+    "exit_reason": ""
+  },
+  {
+    "id": "P-D",
+    "grid_at_entry": "G2",
+    "eligible_from": "2026-04-01",
+    "eligible_to": "",
+    "exit_reason": ""
+  }
+]

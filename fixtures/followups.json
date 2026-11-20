@@ -1,0 +1,30 @@
+[
+  {
+    "id": "F-1",
+    "service": "S-1",
+    "at": "2026-04-05",
+    "result": "improved",
+    "consent": "yes"
+  },
+  {
+    "id": "F-2",
+    "service": "S-1",
+    "at": "2026-04-12",
+    "result": "stable",
+    "consent": "yes"
+  },
+  {
+    "id": "F-3",
+    "service": "S-3",
+    "at": "2026-03-25",
+    "result": "",
+    "consent": "no"
+  },
+  {
+    "id": "F-4",
+    "service": "S-4",
+    "at": "2026-04-30",
+    "result": "pending",
+    "consent": "yes"
+  }
+]

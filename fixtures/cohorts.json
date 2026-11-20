@@ -1,0 +1,16 @@
+[
+  {
+    "id": "Q1",
+    "service": "家庭支持",
+    "valid_from": "2026-01-01",
+    "valid_to": "2026-06-30",
+    "followup_days": 30
+  },
+  {
+    "id": "Q2",
+    "service": "陪伴服务",
+    "valid_from": "2026-03-01",
+    "valid_to": "",
+    "followup_days": 60
+  }
+]

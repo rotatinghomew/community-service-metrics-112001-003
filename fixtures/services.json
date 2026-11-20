@@ -1,0 +1,42 @@
+[
+  {
+    "id": "S-1",
+    "person": "P-A",
+    "cohort": "Q1",
+    "referred_at": "2026-03-01",
+    "contact_at": "2026-03-04",
+    "status": "active"
+  },
+  {
+    "id": "S-2",
+    "person": "P-A",
+    "cohort": "Q1",
+    "referred_at": "2026-03-20",
+    "contact_at": "",
+    "status": "duplicate_referral"
+  },
+  {
+    "id": "S-3",
+    "person": "P-B",
+    "cohort": "Q1",
+    "referred_at": "2026-03-15",
+    "contact_at": "2026-03-20",
+    "status": "declined"
+  },
+  {
+    "id": "S-4",
+    "person": "P-C",
+    "cohort": "Q2",
+    "referred_at": "2026-04-01",
+    "contact_at": "2026-04-08",
+    "status": "active"
+  },
+  {
+    "id": "S-5",
+    "person": "P-D",
+    "cohort": "Q1",
+    "referred_at": "2026-05-01",
+    "contact_at": "",
+    "status": "unreached"
+  }
+]
